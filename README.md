@@ -1,2 +1,2 @@
 # Healthcare-Capstone-Project
-Diabetic data prediction
+Diabetec data prediction
